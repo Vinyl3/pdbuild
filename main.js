@@ -108,7 +108,7 @@ var AppRoutingModule = /** @class */ (function () {
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = ""
+module.exports = "/* empty css */"
 
 /***/ }),
 
@@ -236,7 +236,7 @@ var AppModule = /** @class */ (function () {
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "\r\n "
+module.exports = "/* empty css */\r\n "
 
 /***/ }),
 
